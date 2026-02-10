@@ -1,3 +1,7 @@
+**tinky-badge**
+
+---
+
 # tinky-badge
 
 > A React-like badge component library for building beautiful terminal UIs.
@@ -108,7 +112,7 @@ For non-string children (React elements), no transformation is applied:
 
 ## API Documentation
 
-For complete API documentation, type definitions, and usage examples, visit the [API Docs](./docs/api).
+For complete API documentation, type definitions, and usage examples, visit the [API Docs](_media/api).
 
 ### Components
 
